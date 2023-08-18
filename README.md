@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ## Front-end Developer
 
 I am a Front-end Developer who loves everything about front-end development. I am solution oriented, enthusiastic with a fondness for creating web applications and learning more every day.  
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif
+">
 
 - 🖥️ I’m currently looking for a new job opportunity
 - 🧠 I’m currently learning more about JavaScript framework
