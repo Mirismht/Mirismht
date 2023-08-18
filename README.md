@@ -44,8 +44,8 @@ I am a Front-end Developer who loves everything about front-end development. I a
 </p>
 
 
- ![](https://mirisabejko.netlify.app/)-->
-
+ ![](https://mirisabejko.netlify.app/)
+-->
  <h1 align="center">Hi 👋, I'm Mirisa</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
