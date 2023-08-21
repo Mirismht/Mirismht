@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **to grow my skills with new projects**
 
-- 🌱 I’m currently learning **JavaScript Frameworks**
+- 🌱 I’m currently learning **React framework**
 
 - 👨‍💻 All of my projects are available at [https://mirisabejko.netlify.app/](https://mirisabejko.netlify.app/)
 
